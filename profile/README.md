@@ -2,7 +2,14 @@
 
 ## Deploy the software in its core configuration and build your Proof of Concept
 
-#### Our clients have plenty of reasons for choosing Marionette Software as the foundation of their FinTech businesses. Today, we want you to take Marionette for a Test Drive to experience the world’s most innovative and future-proof software. Find out why so many FinTech projects chose Marionette and see if this is the right software for your business.
+### By accessing repositories related to Marionette Software, you acknowledge and agree to abide by the terms and conditions of the 'TuneX LLC Marionette Software Creative Commons CC-BY-NC-ND-4.0 International Public License' governing the use of this software.
+
+#### License Agreement: [Read here](https://github.com/Marionette-Software/marionette-configurator/tree/main?tab=License-1-ov-file#tunex-llc-marionette-software-creative-commons-cc-by-nc-nd-40-international-public-license)
+
+#### Contact Licensor: 
+#### E-mails: admin@tunex.io / humans@marionette.dev // Website: https://marionette.dev/
+
+#### More information about GitHub Release VS Commercial License: https://marionette.dev/test-drive/
 
 ## Want to be a contributor and take part in advancing Marionette's capabilities?
 
