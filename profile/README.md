@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+![Marionette Large Logo](https://marionette.dev/wp-content/uploads/2023/05/Marionette-2-2.png)
+
+#1 SOFTWARE SOLUTION
+
+Deploy the software in its core configuration and build your Proof of Concept
+
 <!--
 
 **Here are some ideas to get you started:**
