@@ -1,4 +1,4 @@
-## #1 Ssoftware solution for CRYPTO & FIAT CURRENCY STORAGE and TRADING as a public facing service.
+## #1 Software Solution for CRYPTO & FIAT CURRENCY STORAGE and TRADING as a Public Facing Service.
 
 ## Deploy the software in its core configuration and build your Proof of Concept
 
