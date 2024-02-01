@@ -23,18 +23,16 @@ Marionette Software repositories, documentation and tutorials are intended to le
 
 #### License Agreement: [Read here](https://github.com/Marionette-Software/marionette-configurator/tree/main?tab=License-1-ov-file#tunex-llc-marionette-software-creative-commons-cc-by-nc-nd-40-international-public-license)
 
-#### Contact Licensor: 
-#### E-mails: admin@tunex.io / humans@marionette.dev // Website: https://marionette.dev/
+#### Maionette Software Licensor: TuneX LLC 
+#### Licensor Contacts: admin@tunex.io / humans@marionette.dev // Website: https://marionette.dev/
 
 #### More information about GitHub Release VS Commercial License: https://marionette.dev/test-drive/
 _________________________________________________________________________________
 
 ## Want to be a contributor and take part in advancing Marionette's capabilities?
 
-#### Earn a commercial License of Marionette as a reward for your contributions to the software?
+#### Want an opportunity to earn a commercial License of Marionette Software in return for your contributions?
 
-#### Join our Telegram group https://t.me/marionette_dev and send a message:
-
-### Hey Admin, I would like to contribute
+#### Join our Telegram group https://t.me/marionette_dev and send a message: "Hey Admin, I would like to contribute"
 
 #### Our team will reach out to you directly for a conversation
