@@ -2,17 +2,17 @@
 
 ## Marionette Software use cases include:
 
-- ## Digital Bank
-- ## OTC Trading
-- ## Order Book Trading
-- ## Currency Exchange Marketplace
-- ## Digital Asset Centralized Custody/User Custody Wallet
-- ## P2P Trading Platform
-- ## Escrow Service
-- ## Remittance Service
-- ## Investment Platform
-- ## Tokenization/IEO/ICO Platform
-- ## and others..
+- Digital Bank
+- OTC Trading
+- Order Book Trading
+- Currency Exchange Marketplace
+- Digital Asset Centralized Custody/User Custody Wallet
+- P2P Trading Platform
+- Escrow Service
+- Remittance Service
+- Investment Platform
+- Tokenization/IEO/ICO Platform
+- and others..
 
 ## Deploy the software in its core configuration and build your Proof of Concept
 
