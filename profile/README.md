@@ -15,7 +15,7 @@
 - Tokenization/IEO/ICO Platform
 - and others..
 
-## Deploy the software in its core configuration and build your Proof of Concept
+## Marionette Software repositories, documentation and tutorials are intended to let you Test Drive of Marionette. Deploy the software in its core configuration, introduce your customizations and build the Proof of Concept as envisioned by your business. Marionette Proof of Concept, will give you the freedom to realize your business vision in action and empower you in your mission to attract investors who share your vision, from public to private. Test Drive environment, will allow you to test Marionette Software and see if it is the right fit for your business. While this version of Marionette is limited in features and capabilities, when compared to the commercial lincesed version, the core technical core and foundation are the same, giving you the freedom to migrated to an upgraded End-user and Admin Environments whenever you're ready to LEVEL UP.
 
 ### By accessing repositories related to Marionette Software, you acknowledge and agree to abide by the terms and conditions of the 'TuneX LLC Marionette Software Creative Commons CC-BY-NC-ND-4.0 International Public License' governing the use of this software.
 
