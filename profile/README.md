@@ -1,5 +1,19 @@
 ## #1 Software for CRYPTO & FIAT CURRENCY TRADING, INVESTMENT and STORAGE as a Public-facing Service.
 
+## Marionette Software use cases include:
+
+- Digital Bank
+- OTC Trading
+- Order Book Trading
+- Currency Exchange Marketplace
+- Digital Asset Centralized Custody/User Custody Wallet
+- P2P Trading Platform
+- Escrow Service
+- Remittance Service
+- Investment Platform
+- Tokenization/IEO/ICO Platform
+- and many othe
+
 ## Deploy the software in its core configuration and build your Proof of Concept
 
 ### By accessing repositories related to Marionette Software, you acknowledge and agree to abide by the terms and conditions of the 'TuneX LLC Marionette Software Creative Commons CC-BY-NC-ND-4.0 International Public License' governing the use of this software.
