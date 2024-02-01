@@ -1,4 +1,4 @@
-## #1 SOFTWARE SOLUTION
+## #1 SOFTWARE SOLUTION for CRYPTO & FIAT CURRENCY STORAGE and TRADING.
 
 ## Deploy the software in its core configuration and build your Proof of Concept
 
