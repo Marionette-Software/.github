@@ -6,7 +6,8 @@
 - OTC Trading
 - Order Book Trading
 - Currency Exchange Marketplace
-- Digital Asset Centralized Custody/User Custody Wallet
+- Fiat On/Off Ramp Service
+- Digital Asset Centralized and/or User Custody Wallet Service
 - P2P Trading Platform
 - Escrow Service
 - Remittance Service
