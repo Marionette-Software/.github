@@ -10,6 +10,7 @@
 #### E-mails: admin@tunex.io / humans@marionette.dev // Website: https://marionette.dev/
 
 #### More information about GitHub Release VS Commercial License: https://marionette.dev/test-drive/
+_________________________________________________________________________________
 
 ## Want to be a contributor and take part in advancing Marionette's capabilities?
 
