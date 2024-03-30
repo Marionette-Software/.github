@@ -1,4 +1,4 @@
-## #1 Software for CRYPTO & FIAT CURRENCY TRADING, INVESTMENT and STORAGE as a Public-facing Service.
+## #1 Software for CRYPTO & FIAT CURRENCY EXCHANGE, TRADING, INVESTMENT and STORAGE as a Public-facing Service.
 
 Welcome to FinTech Software Evolution powered by Marionette! Developed by traditional and blockchain veterans, Marionette is built to satisfy the needs of modern financial services and to withstand the demands of FinTech services of tomorrow. Welcome to the Public Test Drive of Marionette Software!
 
