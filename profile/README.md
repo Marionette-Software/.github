@@ -2,6 +2,8 @@
 
 Welcome to FinTech Software Evolution powered by Marionette! Developed by traditional and blockchain veterans, Marionette is built to satisfy the needs of modern financial services and to withstand the demands of FinTech services of tomorrow. Welcome to the Public Test Drive of Marionette Software!
 
+![image](https://github.com/Marionette-Software/.github/assets/57184189/9bf6787a-6fee-4274-84cd-65da3fea9c8a)
+
 Marionette use cases include:
 
 - Digital Banking
